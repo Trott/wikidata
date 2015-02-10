@@ -1,0 +1,23 @@
+{
+  "name": "wikidata",
+  "version": "1.0.0",
+  "description": "Retrieve data from wikidata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Trott/wikidata.git"
+  },
+  "keywords": [
+    "wikidata",
+    "data"
+  ],
+  "author": "Rich Trott <rtrott@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Trott/wikidata/issues"
+  },
+  "homepage": "https://github.com/Trott/wikidata"
+}
